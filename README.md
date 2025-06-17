@@ -40,8 +40,7 @@
 1. Создание и редактирование:
    ```bash
    touch .gitignore
-   echo "*.pyc
-cache/" > .gitignore
+   echo "*.pyc cache/" > .gitignore
    ```
 2. Коммит и пуш:
    ```bash
