@@ -49,7 +49,7 @@
    git push origin main
    ```
 3. ✅ Ссылка на коммит:  
-   🔗 [c5532fa](https://github.com/lim0nad-tv/git/commit/c5532fa0fd491389f8bbdf7a6a2dc1b6b1476d51)
+   🔗 [f1c917d](https://github.com/lim0nad-tv/git/commit/f1c917d068accb2f4cf79d52e7c7e0b4c4abc0ab)
 
 ---
 
